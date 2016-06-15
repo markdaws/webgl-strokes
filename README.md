@@ -1,2 +1,0 @@
-# webgl-strokes
-TDB

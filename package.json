@@ -1,0 +1,26 @@
+{
+  "name": "webgl-basic-template",
+  "version": "1.0.0",
+  "description": "Empty template to start a new 3D project",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/.bin/serve -p 9999 ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markdaws/webgl-basic-template.git"
+  },
+  "keywords": [
+    "webgl"
+  ],
+  "author": "Mark Dawson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markdaws/webgl-basic-template/issues"
+  },
+  "homepage": "https://github.com/markdaws/webgl-basic-template#readme",
+  "dependencies": {
+    "serve": "^1.4.0"
+  }
+}

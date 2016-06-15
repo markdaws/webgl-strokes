@@ -1,0 +1,24 @@
+* Demos
+** 1. Have particles follow a vector force map
+*** Render force vectors
+*** Have single particle affected by forces
+*** Have multiple particles affected by the force
+*** Particle + Lifetime
+*** Particle System
+
+* Advanced Tasks
+** Convert CPU approach to GPU
+** Add normal map
+** Add realistic lighting
+
+
+Wold Coord System
++y
+|
+|
+----- +x
+
+VectorField Coord System
+
+
+
